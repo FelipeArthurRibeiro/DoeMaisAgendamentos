@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "387059718426",
+    "project_id": "doemaisagendamentos-61c7e",
+    "storage_bucket": "doemaisagendamentos-61c7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387059718426:android:ebd27cdfa6a4f1226574a3",
+        "android_client_info": {
+          "package_name": "com.example.doe_mais_agendamentos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387059718426-vtrdfb46au6ifnuu131j5bnh4mjqtbcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMW5EkF5FKjJNLB-7Yzi768lZLSDFal8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "387059718426-vtrdfb46au6ifnuu131j5bnh4mjqtbcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
